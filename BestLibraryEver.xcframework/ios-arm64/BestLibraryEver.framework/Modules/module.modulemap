@@ -1,0 +1,11 @@
+framework module BestLibraryEver {
+  umbrella header "BestLibraryEver.h"
+
+  export *
+  module * { export * }
+}
+
+module BestLibraryEver.Swift {
+    header "BestLibraryEver-Swift.h"
+    requires objc
+}
