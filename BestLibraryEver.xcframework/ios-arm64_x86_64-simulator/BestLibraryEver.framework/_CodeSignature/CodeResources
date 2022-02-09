@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TYpkQITkbjsBcHeDobd3B8peBfc=
+		1D9Qjb412E6lUxWz7o6ykU23T68=
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fIb25k0NfTb3zXHn80b19wFziCY=
+		uOO7Gf7ZNcLWT0dlhJvdlRLozRk=
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		TYpkQITkbjsBcHeDobd3B8peBfc=
+		1D9Qjb412E6lUxWz7o6ykU23T68=
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		fIb25k0NfTb3zXHn80b19wFziCY=
+		uOO7Gf7ZNcLWT0dlhJvdlRLozRk=
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		k0NQED7ITbov0RB8FsP7vjvHiRI=
+		6HOvhBGFZDFRTvLyaZV7p0XsnDo=
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kBb95wxodphaSiaRY2sQK8DCWwU=
+		3srsw4DzniKOe5WUcp2VyklxZzM=
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		k0NQED7ITbov0RB8FsP7vjvHiRI=
+		6HOvhBGFZDFRTvLyaZV7p0XsnDo=
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		kBb95wxodphaSiaRY2sQK8DCWwU=
+		3srsw4DzniKOe5WUcp2VyklxZzM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -96,14 +96,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PkWciAfo80tMyeeT6dMGv8OSJGxZZq+08Dtza3vhxEI=
+			6lPxocqwH458mSery3Gv/D8zY1UzM47D0yXWbmrSyuE=
 			</data>
 		</dict>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6fpkKKwlfjFVjtz/fIOTOz3E7yQw1g97jWP3tCxibfY=
+			vshVebAs/1SsicpXDEwXDQ7RnvyihxVW+v2i+3QGga0=
 			</data>
 		</dict>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64.swiftdoc</key>
@@ -117,14 +117,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PkWciAfo80tMyeeT6dMGv8OSJGxZZq+08Dtza3vhxEI=
+			6lPxocqwH458mSery3Gv/D8zY1UzM47D0yXWbmrSyuE=
 			</data>
 		</dict>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6fpkKKwlfjFVjtz/fIOTOz3E7yQw1g97jWP3tCxibfY=
+			vshVebAs/1SsicpXDEwXDQ7RnvyihxVW+v2i+3QGga0=
 			</data>
 		</dict>
 		<key>Modules/BestLibraryEver.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -138,14 +138,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zJEHhlQeS5rTXZ45s/M3kSZT2hiD0VwEkFbkIiRo/RA=
+			56h41233XsRPUfLzY9jIyJprrafMJOgZ4s6FNPQFy24=
 			</data>
 		</dict>
 		<key>Modules/BestLibraryEver.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			marjkzUVHMuofdZLTNkcMPrLwTvKxGeHoY/IZdTTZj0=
+			4toKicj6kskYbUUMppH9uOIgx7QqRMoCj75X2+nYbiM=
 			</data>
 		</dict>
 		<key>Modules/BestLibraryEver.swiftmodule/x86_64.swiftdoc</key>
@@ -159,14 +159,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zJEHhlQeS5rTXZ45s/M3kSZT2hiD0VwEkFbkIiRo/RA=
+			56h41233XsRPUfLzY9jIyJprrafMJOgZ4s6FNPQFy24=
 			</data>
 		</dict>
 		<key>Modules/BestLibraryEver.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			marjkzUVHMuofdZLTNkcMPrLwTvKxGeHoY/IZdTTZj0=
+			4toKicj6kskYbUUMppH9uOIgx7QqRMoCj75X2+nYbiM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

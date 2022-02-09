@@ -9,6 +9,7 @@ public class helloWorld {
   public var firstWord: Swift.String
   public init()
   public func printAll() -> Swift.String
+  public func brandnewfunctionfortest()
   public func setWords(_ first: Swift.String, _ second: Swift.String)
   @objc deinit
 }
