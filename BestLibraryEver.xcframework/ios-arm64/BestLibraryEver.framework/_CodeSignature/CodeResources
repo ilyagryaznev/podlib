@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		5JQ/y4miCimbeNppWpvJyW/xNeM=
+		04ZFPBhYB3vZ/KjzS+aAwgS4U1E=
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		saHkw68P99M1BD/gJgBlEmvTNhc=
+		HhKChU0Iepc0hGquvYYhvohlSm4=
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		5JQ/y4miCimbeNppWpvJyW/xNeM=
+		04ZFPBhYB3vZ/KjzS+aAwgS4U1E=
 		</data>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		saHkw68P99M1BD/gJgBlEmvTNhc=
+		HhKChU0Iepc0hGquvYYhvohlSm4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fDoGY601exV5btn3reDvlGr3nStDt2FZUPOB8UBy+Zk=
+			ILVKQV1NPzIWP27dtlq9jxOtdPWIsVjGeaw5PXflyrQ=
 			</data>
 		</dict>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EEzu8PcT0K1ZIpg90ZLmWMfK14TYjw/hoPDUl8AUP8w=
+			NqjjaQN6WmTiqrMmInQi1+XuflecBy61KpJ9dLrKoCw=
 			</data>
 		</dict>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fDoGY601exV5btn3reDvlGr3nStDt2FZUPOB8UBy+Zk=
+			ILVKQV1NPzIWP27dtlq9jxOtdPWIsVjGeaw5PXflyrQ=
 			</data>
 		</dict>
 		<key>Modules/BestLibraryEver.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EEzu8PcT0K1ZIpg90ZLmWMfK14TYjw/hoPDUl8AUP8w=
+			NqjjaQN6WmTiqrMmInQi1+XuflecBy61KpJ9dLrKoCw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

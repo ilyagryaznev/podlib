@@ -10,6 +10,7 @@ public class helloWorld {
   public init()
   public func printAll() -> Swift.String
   public func brandnewfunctionfortest()
+  public func printHelloWorld()
   public func setWords(_ first: Swift.String, _ second: Swift.String)
   @objc deinit
 }
