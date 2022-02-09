@@ -11,6 +11,7 @@ public class helloWorld {
   public func printAll() -> Swift.String
   public func brandnewfunctionfortest()
   public func printHelloWorld()
+  public func testunversalframework()
   public func setWords(_ first: Swift.String, _ second: Swift.String)
   @objc deinit
 }
